@@ -23,7 +23,6 @@ User will be given a GUI window at firsthand to select their interface <br>
 - Removing products.
 - Saving session data <br>
   _<span style="color: #86B6F6">(Both manual and AutoSave options are available)_</span>.
-
 - Sorting products according to productIDs.
 - Display available space in stock.
 
